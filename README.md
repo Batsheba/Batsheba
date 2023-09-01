@@ -13,7 +13,7 @@
 - 🌱 Egresada de computación e informática.
 
 - ⚡ mi experiencia se basa en el rubro de desarrollo web y
-soporte Sistemas ERP.
+soporte sistemas ERP.
 
 <br>
 
